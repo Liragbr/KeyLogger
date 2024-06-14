@@ -8,9 +8,8 @@ The KeyloggerServer and KeyloggerClient projects demonstrate a simple implementa
 Unauthorized use of keyloggers to capture keystrokes from systems without consent is illegal and unethical. This project should only be used in environments where you have explicit permission to do so, such as your own devices for educational or testing purposes.
 
 ## Project Structure
-### KeyloggerProject
-
 ```
+KeyloggerProject
 │
 ├─── KeyloggerServer
 │    ├── Program.cs
