@@ -1,0 +1,15 @@
+c:\Users\gabri\Downloads\KeyLogger\KeyLoggerServer\bin\Debug\net6.0\KeyloggerServer.exe
+c:\Users\gabri\Downloads\KeyLogger\KeyLoggerServer\bin\Debug\net6.0\KeyloggerServer.deps.json
+c:\Users\gabri\Downloads\KeyLogger\KeyLoggerServer\bin\Debug\net6.0\KeyloggerServer.runtimeconfig.json
+c:\Users\gabri\Downloads\KeyLogger\KeyLoggerServer\bin\Debug\net6.0\KeyloggerServer.dll
+c:\Users\gabri\Downloads\KeyLogger\KeyLoggerServer\bin\Debug\net6.0\KeyloggerServer.pdb
+c:\Users\gabri\Downloads\KeyLogger\KeyLoggerServer\obj\Debug\net6.0\KeyloggerServer.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\gabri\Downloads\KeyLogger\KeyLoggerServer\obj\Debug\net6.0\KeyloggerServer.AssemblyInfoInputs.cache
+c:\Users\gabri\Downloads\KeyLogger\KeyLoggerServer\obj\Debug\net6.0\KeyloggerServer.AssemblyInfo.cs
+c:\Users\gabri\Downloads\KeyLogger\KeyLoggerServer\obj\Debug\net6.0\KeyloggerServer.csproj.CoreCompileInputs.cache
+c:\Users\gabri\Downloads\KeyLogger\KeyLoggerServer\obj\Debug\net6.0\KeyloggerServer.sourcelink.json
+c:\Users\gabri\Downloads\KeyLogger\KeyLoggerServer\obj\Debug\net6.0\KeyloggerServer.dll
+c:\Users\gabri\Downloads\KeyLogger\KeyLoggerServer\obj\Debug\net6.0\refint\KeyloggerServer.dll
+c:\Users\gabri\Downloads\KeyLogger\KeyLoggerServer\obj\Debug\net6.0\KeyloggerServer.pdb
+c:\Users\gabri\Downloads\KeyLogger\KeyLoggerServer\obj\Debug\net6.0\KeyloggerServer.genruntimeconfig.cache
+c:\Users\gabri\Downloads\KeyLogger\KeyLoggerServer\obj\Debug\net6.0\ref\KeyloggerServer.dll
